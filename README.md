@@ -1,29 +1,64 @@
-# Welcome to your Lovable project
+# Building Blocks Academy Website
 
-This project was built with [Lovable](https://lovable.dev).
+A modern, responsive educational website developed by **BitSecureX Tech** for Building Blocks Academy.
 
-## Build with Lovable
+**BitSecureX Tech**  
+*We Build. We Secure.*
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## About the Project
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+The Building Blocks Academy website is a modern educational platform designed to provide students, parents, and visitors with clear information about the school, its programs, admissions, activities, and contact details.
 
-## Development
+The website is built with a strong focus on:
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- Mobile-first responsive design
+- Fast performance
+- Clean and accessible user interface
+- Modern educational branding
+- SEO-friendly structure
+- Cross-device compatibility
+- Maintainable and scalable code
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## Developed By
 
-## Built with
+**BitSecureX Tech**
 
-- TanStack Start
-- TypeScript
+BitSecureX Tech provides professional digital solutions including:
+
+- Website Development
+- Full-Stack Web Applications
+- E-commerce Development
+- AI Automation
+- Cybersecurity
+- Website Security Testing
+- Digital Marketing
+- SEO
+- Business Automation
+- Website Maintenance and Support
+
+**Tagline:** We Build. We Secure.
+
+## Technology Stack
+
 - React
+- TypeScript
+- TanStack Start
 - Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript / TypeScript
+
+## Project Structure
+
+```text
+building-blocks-academy/
+├── public/
+│   ├── bba-logo.jpg
+│   └── ...
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── ...
+├── package.json
+├── index.html
+└── README.md
